@@ -43,6 +43,9 @@ SilvaLoader/
 ```
 
 ## 🚀 Quick Start
+<img width="1393" height="991" alt="image" src="https://github.com/user-attachments/assets/bc425c88-90ae-4f11-834c-54766ac93384" />
+<img width="1399" height="995" alt="image" src="https://github.com/user-attachments/assets/d8cb7116-4dbb-4822-85c3-ce39d801c7af" />
+
 
 ### 1. Installation
 
