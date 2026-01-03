@@ -1,0 +1,13 @@
+# Silva Loader Icon
+# Place your custom icon.ico file here
+# This is a placeholder - replace with your actual icon
+
+# To create an icon:
+# 1. Design a 256x256 PNG logo
+# 2. Use online converter to create .ico file
+# 3. Name it icon.ico and place in root directory
+# 4. Build script will automatically use it
+
+# Recommended tools:
+# - https://convertico.com/
+# - https://www.icoconverter.com/
