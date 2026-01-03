@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A professional, production-ready game loader template with modern UI, obfuscated builds, and comprehensive developer documentation.
+THE DDL INJECTION MAY FLAG ANTIVIRUSE Just Delete the FILE if your not using it so if it flags no issue. Its due to it altering memory.
+If your just doing Minecraft Injection delete it or let AV, if not you should understand how it works and why it gets flagged, thanks! sorry.
 
 ## ✨ Features
 
